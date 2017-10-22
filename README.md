@@ -2,8 +2,6 @@
 
 # Git Demo
 
-temp
-
 Git is Distributed Version Control System.Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book you will use so ware source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
 
 ![DVCS](image/DVCS.png)
@@ -12,9 +10,9 @@ Git is Distributed Version Control System.Version control is a system that recor
 
 ![Workflow](image/Workflow.png)
 
+Every files in a repository can only be in four status.
 
-
-
+1. Untracked : Untracked files 
 
 
 
